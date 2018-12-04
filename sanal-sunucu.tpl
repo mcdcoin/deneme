@@ -645,7 +645,7 @@
           <div class="col-md-4">
             <ul>
               <li class="title"><i class="fa fa-desktop"></i> Genel Bilgiler</li>
-              <li>Veri Merkezi <span>Conflex DC, Türkiye</span></li>
+              <li>Veri Merkezi <span>Oyun Sunucuları DC, Türkiye</span></li>
               <li>FTP Hesabı <span>Limitsiz</span></li>
               <li>Yönetim Paneli <span>WHM / cPanel</span></li>
               <li>CPU Kullanımı <span>%25</span></li>
@@ -730,7 +730,8 @@
       </div>
       <div class="cell text-center">
         <a href="#" class="standartButon"><i class="fa fa-ticket"></i> Destek Talebi</a>
-        <a href="#" class="standartButon"><i class="fa fa-phone"></i> 0850 000 0 000</a>
+        <a href="#" class="standartButon"><i class="fa fa-phone"></i> 0 541 738 03 12</a>
+        <a href="#" class="standartButon"><i class="fa fa-phone"></i> 0 541 738 03 12</a>
       </div>
     </div>
   </div>
@@ -744,13 +745,13 @@
       </div>
       <div class="content">
         <h2>Kaliteli Altyapı <strong>ve Hizmet</strong></h2>
-        <p>Sunucu barındırma hizmetimiz ile kendinize yada firmanıza ait donanımları yüksek kaliteli uluslararası standartlara uygun veri merkezimide en uygun fiyatlar ile barındırabilirsiniz. Conflex olarak sizlere yedekli elektrik ve network altyapısı, 40Gbit güçlü network bağlantısı ile %99 erişim sürekliliği ve 7 gün 24 saat teknik destek garantisi veriyoruz. Opsiyonel olarak yönetim desteği, yedek donanım parça temini, kurulum desteği gibi birçok avantajlı yan hizmetlerimizi sunucu barındırma hizmeti ile birlikte kullanabilirsiniz.</p>
+        <p>Sunucu barındırma hizmetimiz ile kendinize yada firmanıza ait donanımları yüksek kaliteli uluslararası standartlara uygun veri merkezimide en uygun fiyatlar ile barındırabilirsiniz. OyunSunuculari.com olarak sizlere yedekli elektrik ve network altyapısı, 40Gbit güçlü network bağlantısı ile %99 erişim sürekliliği ve 7 gün 24 saat teknik destek garantisi veriyoruz. Opsiyonel olarak yönetim desteği, yedek donanım parça temini, kurulum desteği gibi birçok avantajlı yan hizmetlerimizi sunucu barındırma hizmeti ile birlikte kullanabilirsiniz.</p>
       </div>
     </div>
     <div class="altyapiCell">
       <div class="content">
         <h2>Yüzlerce Mutlu, <strong>Memnun Müşteriler</strong></h2>
-        <p>Sunucu barındırma hizmetimiz ile kendinize yada firmanıza ait donanımları yüksek kaliteli uluslararası standartlara uygun veri merkezimide en uygun fiyatlar ile barındırabilirsiniz. Conflex olarak sizlere yedekli elektrik ve network altyapısı, 40Gbit güçlü network bağlantısı ile %99 erişim sürekliliği ve 7 gün 24 saat teknik destek garantisi veriyoruz. Opsiyonel olarak yönetim desteği, yedek donanım parça temini, kurulum desteği gibi birçok avantajlı yan hizmetlerimizi sunucu barındırma hizmeti ile birlikte kullanabilirsiniz.</p>
+        <p>Sunucu barındırma hizmetimiz ile kendinize yada firmanıza ait donanımları yüksek kaliteli uluslararası standartlara uygun veri merkezimide en uygun fiyatlar ile barındırabilirsiniz. OyunSunuculari.com olarak sizlere yedekli elektrik ve network altyapısı, 40Gbit güçlü network bağlantısı ile %99 erişim sürekliliği ve 7 gün 24 saat teknik destek garantisi veriyoruz. Opsiyonel olarak yönetim desteği, yedek donanım parça temini, kurulum desteği gibi birçok avantajlı yan hizmetlerimizi sunucu barındırma hizmeti ile birlikte kullanabilirsiniz.</p>
       </div>
       <div class="image">
         <img src="templates/{$template}/assets/img/dc-icplan.jpg" alt="" />

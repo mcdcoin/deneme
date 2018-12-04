@@ -13,8 +13,8 @@
 				</ul>
 				<ul class="sagMenu">
 					<li>
-						<a href="http://posistanbul.com" target="_blank">
-							<img src="templates/{$template}/assets/img/posistanbul.png" alt="POSİstanbul Teknoloji" />
+						<a href="https://www.oyunsunuculari.com" target="_blank">
+							<img src="templates/{$template}/assets/img/footerlogo.png" alt="Oyunsunuculari.com Demir Telekomünikasyon" />
 						</a>
 					</li>
 				</ul>
@@ -43,4 +43,5 @@
   }
 	</script>
 </body>
+Şuraya Tawk.to Kodu Ekle
 </html>

@@ -31,7 +31,7 @@
 				<li><a href="{$WEB_ROOT}/contact.php">İletişim</a></li>
 			</ul>
 			<ul class="sagMenu">
-				<li><a href="tel:+908500000000"><i class="fa fa-phone"></i> 0850 000 0 000</a></li>
+				<li><a href="tel:+908500000000"><i class="fa fa-phone"></i> 0 541 738 03 12</a></li>
 				<li><a href="{$WEB_ROOT}/submitticket.php"><i class="fa fa-comments"></i> Hızlı Destek</a></li>
 				<li><a href="{$WEB_ROOT}/cart.php?a=view"><i class="fa fa-shopping-cart"></i> Sepet{if !$cartitemcount == 0} ({$cartitemcount}){/if}</a></li>
 				{if $loggedin}
@@ -131,7 +131,7 @@
 										<li><a href="kurumsal.php">Kurumsal</a></li>
 										<li><a href="altyapi.php">Altyapı</a></li>
 										<li><a href="kurumsal.php">Gizlilik Sözleşmesi</a></li>
-										<li><a href="tel:+908500000000">Ara: 0850 000 0 000</a></li>
+										<li><a href="tel:+908500000000">Ara: 0 541 738 03 12</a></li>
 										<li><a href="contact.php">İletişim</a></li>
 									</ul>
 								</div>
@@ -183,7 +183,7 @@
 
 		<div class="logo">
 			<a href="{$WEB_ROOT}/index.php">
-				<img src="templates/{$template}/assets/img/sidelogo.png" alt="+ Conflex" />
+				<img src="templates/{$template}/assets/img/sidelogo.png" alt="+ OyunSunuculari" />
 			</a>
 		</div>
 
@@ -250,7 +250,7 @@
 						<li><a href="hakkimizda.php">Hakkımızda</a></li>
 						<li><a href="altyapi.php">Altyapı</a></li>
 						<li><a href="ticari-bilgiler.php">Ticari Bilgiler</a></li>
-						<li><a href="conflex-kariyer.php">Conflex'de Kariyer</a></li>
+						<li><a href="kariyer.php">OyunSunucuları'nda Kariyer</a></li>
 						<li><a href="banka-hesap-bilgileri.php">Banka Hesap Bilgileri</a></li>
 					</ul>
 				</li>

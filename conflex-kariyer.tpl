@@ -1,6 +1,6 @@
 <section id="navigator" class="hakkimizda">
   <div class="container">
-    <h1>Conflex'de Kariyer</h1>
+    <h1>OyunSunucuları'nda Kariyer</h1>
     <p class="desc">Şirketimizde çalışarak gücümüze güç katın.</p>
   </div>
 </section>
@@ -14,7 +14,7 @@
         <div class="contentblock">
           <h2>Conflex'de Kariyer</h2>
           <div>
-            <p class="description">POSİstanbul Teknoloji ve Teleküminkasyon Limited Şirketi olarak teknoloji alanının alt dallarında kariyer yapmak isteyen ekip arkadaşları arıyoruz. Aranılan pozisyon ve gerekli yeterlilikler aşağıda yer alıyor.</p>
+            <p class="description">OyunSunuculari.com Demir Teleküminkasyon İlkay Demir Şirketi olarak teknoloji alanının alt dallarında kariyer yapmak isteyen ekip arkadaşları arıyoruz. Aranılan pozisyon ve gerekli yeterlilikler aşağıda yer alıyor.</p>
           </div>
           <div class="ticarirow">
             <div class="satir">

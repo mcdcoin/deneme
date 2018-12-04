@@ -7,7 +7,7 @@
     <div class="table">
       <div class="description">
         <p>Intel Xeon işlemciler, Samsung SSD Diskler, yeni nesil DDR4 bellekler... Yüksek performans ve sorunsuz bir hizmet için en güçlü donanımlar hizmetinizde. </p>
-        <p>10.000'den fazla web sitesi barındıran Conflex, yüksek performanslı hosting tercih edenlerin şirketi.</p>
+        <p>10.000'den fazla web sitesi barındıran OyunSunuculari.com, yüksek performanslı hosting tercih edenlerin şirketi.</p>
       </div>
       <div class="logo">
         <ul class="nav-justified" role="tablist">
@@ -144,7 +144,7 @@
                 <div class="col-md-4">
                   <ul>
                     <li class="title"><i class="fa fa-desktop"></i> Genel Bilgiler</li>
-                    <li>Veri Merkezi <span>Conflex DC, Türkiye</span></li>
+                    <li>Veri Merkezi <span>OyunSunucuları DC, Türkiye</span></li>
                     <li>FTP Hesabı <span>Limitsiz</span></li>
                     <li>Yönetim Paneli <span>WHM / cPanel</span></li>
                     <li>CPU Kullanımı <span>%25</span></li>
@@ -329,7 +329,7 @@
                 <div class="col-md-4">
                   <ul>
                     <li class="title"><i class="fa fa-desktop"></i> Genel Bilgiler</li>
-                    <li>Veri Merkezi <span>Conflex DC, Türkiye</span></li>
+                    <li>Veri Merkezi <span>OyunSunucuları DC, Türkiye</span></li>
                     <li>FTP Hesabı <span>Limitsiz</span></li>
                     <li>Yönetim Paneli <span>Plesk Panel</span></li>
                     <li>CPU Kullanımı <span>%25</span></li>

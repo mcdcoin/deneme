@@ -7,7 +7,7 @@
 			<div class="table">
 				<div class="description">
 					<p>Intel Xeon işlemciler, Samsung SSD Diskler, yeni nesil DDR4 bellekler... Yüksek performans ve sorunsuz bir hizmet için en güçlü donanımlar hizmetinizde. </p>
-					<p>10.000'den fazla web sitesi barındıran Conflex, yüksek performanslı hosting tercih edenlerin şirketi.</p>
+					<p>10.000'den fazla web sitesi barındıran OyunSunuculari.com, yüksek performanslı hosting tercih edenlerin şirketi.</p>
 				</div>
 				<div class="logo">
 					<img src="templates/{$template}/assets/img/cpanel-white-logo.png" alt="+ En iyi hosting yönetim paneli" />

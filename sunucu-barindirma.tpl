@@ -1,7 +1,7 @@
 	<section id="navigator" class="sunucuBarindirma">
 		<div class="container">
 			<h1>Sunucu Barındırma</h1>
-			<p class="desc">Conflex Tier II veri merkezinde sunucunuzu barındırın.</p>
+			<p class="desc">OyunSunuculari.com Tier III veri merkezinde sunucunuzu barındırın.</p>
 		</div>
 	</section>
 
@@ -150,13 +150,13 @@
 				</div>
 				<div class="content">
 					<h2>Kaliteli Altyapı <strong>ve Hizmet</strong></h2>
-					<p>Sunucu barındırma hizmetimiz ile kendinize yada firmanıza ait donanımları yüksek kaliteli uluslararası standartlara uygun veri merkezimide en uygun fiyatlar ile barındırabilirsiniz. Conflex olarak sizlere yedekli elektrik ve network altyapısı, 40Gbit güçlü network bağlantısı ile %99 erişim sürekliliği ve 7 gün 24 saat teknik destek garantisi veriyoruz. Opsiyonel olarak yönetim desteği, yedek donanım parça temini, kurulum desteği gibi birçok avantajlı yan hizmetlerimizi sunucu barındırma hizmeti ile birlikte kullanabilirsiniz.</p>
+					<p>Sunucu barındırma hizmetimiz ile kendinize yada firmanıza ait donanımları yüksek kaliteli uluslararası standartlara uygun veri merkezimide en uygun fiyatlar ile barındırabilirsiniz. oyunsunuculari.com olarak sizlere yedekli elektrik ve network altyapısı, 40Gbit güçlü network bağlantısı ile %99 erişim sürekliliği ve 7 gün 24 saat teknik destek garantisi veriyoruz. Opsiyonel olarak yönetim desteği, yedek donanım parça temini, kurulum desteği gibi birçok avantajlı yan hizmetlerimizi sunucu barındırma hizmeti ile birlikte kullanabilirsiniz.</p>
 				</div>
 			</div>
 			<div class="altyapiCell">
 				<div class="content">
 					<h2>Yüzlerce Mutlu, <strong>Memnun Müşteriler</strong></h2>
-					<p>Sunucu barındırma hizmetimiz ile kendinize yada firmanıza ait donanımları yüksek kaliteli uluslararası standartlara uygun veri merkezimide en uygun fiyatlar ile barındırabilirsiniz. Conflex olarak sizlere yedekli elektrik ve network altyapısı, 40Gbit güçlü network bağlantısı ile %99 erişim sürekliliği ve 7 gün 24 saat teknik destek garantisi veriyoruz. Opsiyonel olarak yönetim desteği, yedek donanım parça temini, kurulum desteği gibi birçok avantajlı yan hizmetlerimizi sunucu barındırma hizmeti ile birlikte kullanabilirsiniz.</p>
+					<p>Sunucu barındırma hizmetimiz ile kendinize yada firmanıza ait donanımları yüksek kaliteli uluslararası standartlara uygun veri merkezimide en uygun fiyatlar ile barındırabilirsiniz. oyunsunuculari.com olarak sizlere yedekli elektrik ve network altyapısı, 40Gbit güçlü network bağlantısı ile %99 erişim sürekliliği ve 7 gün 24 saat teknik destek garantisi veriyoruz. Opsiyonel olarak yönetim desteği, yedek donanım parça temini, kurulum desteği gibi birçok avantajlı yan hizmetlerimizi sunucu barındırma hizmeti ile birlikte kullanabilirsiniz.</p>
 				</div>
 				<div class="image">
 					<img src="templates/{$template}/assets/img/dc-icplan.jpg" alt="" />

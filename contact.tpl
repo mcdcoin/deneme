@@ -2,23 +2,23 @@
 		<div class="toolbarAdres">
 			<div class="logo">
 				<img src="templates/{$template}/assets/img/headlogo.png" alt="" />
-				<div>Bilgisayar ve İnternet Hizmetleri A.Ş.</div>
+				<div>OyunSunuculari.com Demir Telekomünikasyon İlkay Demir.</div>
 			</div>
 			<div>
 				<i class="fa fa-coffee"></i>
-				<a>4. Levent ofisimize kahve içmeye bekleriz.</a>
+				<a>Lüleburgaz ofisimize kahve içmeye bekleriz.</a>
 			</div>
 			<div>
 				<i class="fa fa-location-arrow"></i> 
-				<a href="#">Sanayi Mh. Gümüşhane Cd. <span>No: 24/B Kağıthane / İSTANBUL</span></a>
+				<a href="#">Siteler Mahallesi Karaca Sok. <span>No: 70/12 Lüleburgaz / Kırklareli</span></a>
 			</div>
 			<div>
 				<i class="fa fa-phone"></i>
-				<a href="tel:08500000000">0850 000 0 000</a>
+				<a href="tel:05417380312">0 541 738 0312</a>
 			</div>
 			<div>
 				<i class="fa fa-envelope"></i>
-				<a href="mailto:info@posistanbul.com">info@posistanbul.com</a>
+				<a href="mailto:info@oyunsunuculari.com">info@oyunsunuculari.com</a>
 			</div>
 			<div>
 				<i class="fa fa-send"></i>

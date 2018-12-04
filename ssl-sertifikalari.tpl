@@ -121,7 +121,7 @@
       </div>
       <div class="cell text-center">
         <a href="#" class="standartButon"><i class="fa fa-ticket"></i> Destek Talebi</a>
-        <a href="#" class="standartButon"><i class="fa fa-phone"></i> 0850 000 0 000</a>
+        <a href="#" class="standartButon"><i class="fa fa-phone"></i> 0541 738 03 12</a>
       </div>
     </div>
   </div>

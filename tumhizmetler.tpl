@@ -41,11 +41,11 @@
         <li><a href="hakkimizda.php">Hakkımızda</a></li>
         <li><a href="altyapi.php">Altyapı</a></li>
         <li><a href="ticari-bilgiler.php">Ticari Bilgiler</a></li>
-        <li><a href="conflex-kariyer.php">Conflex'de Kariyer</a></li>
+        <li><a href="kariyer.php">Oyunsunucuları Kariyer</a></li>
         <li><a href="banka-hesap-bilgileri.php">Banka Hesap Bilgileri</a></li>
       </ul>
       <ul class="dmMenu">
-        <li class="title">Mobil'de Conflex!</li>
+        <li class="title">Mobil'de OyunSunucuları!</li>
         <li>
           <a href="#" class="apple">
             <i class="fa fa-apple"></i> App Store
@@ -63,22 +63,22 @@
         <li class="title">Sosyal Medya</li>
         <li>
           <a href="#" class="facebook">
-            <i class="fa fa-facebook"></i> fb.com/conflex
+            <i class="fa fa-facebook"></i> fb.com/oyunsunuculari
           </a>
         </li>
         <li>
           <a href="#" class="twitter">
-            <i class="fa fa-twitter"></i> @conflex
+            <i class="fa fa-twitter"></i> @oyunsunuculari
           </a>
         </li>
         <li>
           <a href="#" class="youtube">
-            <i class="fa fa-youtube-play"></i> youtube/conflex
+            <i class="fa fa-youtube-play"></i> youtube/oyunsunuculari
           </a>
         </li>
         <li>
           <a href="#" class="instagram">
-            <i class="fa fa-instagram"></i> @conflex
+            <i class="fa fa-instagram"></i> @oyunsunuculari
           </a>
         </li>
       </ul>
@@ -91,9 +91,9 @@
           </a>
         </li>
         <li>
-          <a href="mailto:info@conflex.com" class="email">
+          <a href="mailto:info@oyunsunuculari.com" class="email">
             <i class="fa fa-envelope"></i>
-            info@conflex.com
+            info@oyunsunuculari.com
           </a>
         </li>
       </ul>

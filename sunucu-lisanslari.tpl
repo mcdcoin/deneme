@@ -151,7 +151,7 @@
         <i class="fa fa-phone"></i>
         <h4>Bize Ulaşın</h4>
         <p>Dilerseniz bize iletişim kısmından iletişim formu gönderebilir, isterseniz ofisimize uğrayarak veya da telefonla detaylı olarak satış öncesi destek alabilirsiniz.</p>
-        <p style="margin-top: 12px;"><a href="submitticket.php" class="standartButon custom-btn-xs">Ara: 0850 000 0 000</a></p>
+        <p style="margin-top: 12px;"><a href="submitticket.php" class="standartButon custom-btn-xs">Ara: 0 541 738 03 12</a></p>
       </li>
     </ul>
   </div>

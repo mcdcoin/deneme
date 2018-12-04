@@ -30,9 +30,9 @@
               <h3>Garanti Bankası</h3>
               <p class="description">
                 <ul class="banka-f">
-                  <li><span>Alıcı Adı:</span> <span>Conflex İnternet Hizmetleri Ltd. Şti.</span></li>
+                  <li><span>Alıcı Adı:</span> <span>OyunSunuculari.com Demir Telekomünikasyon İlkay Demir.</span></li>
                   <li><span>IBAN:</span> <span>TR30 0000 0000 0000 0000 0000 00</span></li>
-                  <li><span>Şube No:</span> <span>0000 - Oto-Sanayi / 4. Levent</span></li>
+                  <li><span>Şube No:</span> <span>0000 - Bulvar Şubesi / Lüleburgaz</span></li>
                   <li><span>Hesap Numarası:</span> <span>0000000</span></li>
                 </ul>
               </p>
@@ -43,9 +43,9 @@
               <h3>Türkiye İş Bankası</h3>
               <p class="description">
                 <ul class="banka-f">
-                  <li><span>Alıcı Adı:</span> <span>Conflex İnternet Hizmetleri Ltd. Şti.</span></li>
+                  <li><span>Alıcı Adı:</span> <span>OyunSunuculari.com Demir Telekomünikasyon İlkay Demir.</span></li>
                   <li><span>IBAN:</span> <span>TR30 0000 0000 0000 0000 0000 00</span></li>
-                  <li><span>Şube No:</span> <span>0000 - Oto-Sanayi / 4. Levent</span></li>
+                  <li><span>Şube No:</span> <span>0000 - Bulvar Şubesi / Lüleburgaz</span></li>
                   <li><span>Hesap Numarası:</span> <span>0000000</span></li>
                 </ul>
               </p>
@@ -56,9 +56,9 @@
               <h3>Akbank</h3>
               <p class="description">
                 <ul class="banka-f">
-                  <li><span>Alıcı Adı:</span> <span>Conflex İnternet Hizmetleri Ltd. Şti.</span></li>
+                  <li><span>Alıcı Adı:</span> <span>OyunSunuculari.com Demir Telekomünikasyon İlkay Demir.</span></li>
                   <li><span>IBAN:</span> <span>TR30 0000 0000 0000 0000 0000 00</span></li>
-                  <li><span>Şube No:</span> <span>0000 - Oto-Sanayi / 4. Levent</span></li>
+                  <li><span>Şube No:</span> <span>0000 - Bulvar Şubesi / Lüleburgaz</span></li>
                   <li><span>Hesap Numarası:</span> <span>0000000</span></li>
                 </ul>
               </p>
@@ -69,9 +69,9 @@
               <h3>QNB Finansbank</h3>
               <p class="description">
                 <ul class="banka-f">
-                  <li><span>Alıcı Adı:</span> <span>Conflex İnternet Hizmetleri Ltd. Şti.</span></li>
+                  <li><span>Alıcı Adı:</span> <span>OyunSunuculari.com Demir Telekomünikasyon İlkay Demir.</span></li>
                   <li><span>IBAN:</span> <span>TR30 0000 0000 0000 0000 0000 00</span></li>
-                  <li><span>Şube No:</span> <span>0000 - Oto-Sanayi / 4. Levent</span></li>
+                  <li><span>Şube No:</span> <span>0000 - Bulvar Şubesi / Lüleburgaz</span></li>
                   <li><span>Hesap Numarası:</span> <span>0000000</span></li>
                 </ul>
               </p>

@@ -46,7 +46,7 @@
 			<div class="kaydol">
 				<h2>Kaydol</h2>
 				<p>Firmamızla çalışarak kaliteli, üst düzey ürünler ile pürüssüz hizmet almak isterseniz hesap oluşturabilirsiniz.</p>
-				<p>Conflex Bilgisayar ve İnternet Hizmetleri A.Ş. <a href="#">hizmet sözleşmesi</a> ve <a href="#">gizlilik politika</a>larını kontrol etmenizi tavsiye ederiz.</p>
+				<p>Demir Telekomünikasyon İlkay Demir. <a href="#">hizmet sözleşmesi</a> ve <a href="#">gizlilik politika</a>larını kontrol etmenizi tavsiye ederiz.</p>
 				<a href="register.php" class="customButon"><i class="fa fa-user-plus"></i> Yeni Hesap</a>
 			</div>
 		</div>
