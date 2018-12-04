@@ -31,9 +31,9 @@
               <p class="description">
                 <ul class="banka-f">
                   <li><span>Alıcı Adı:</span> <span>OyunSunuculari.com Demir Telekomünikasyon İlkay Demir.</span></li>
-                  <li><span>IBAN:</span> <span>TR30 0000 0000 0000 0000 0000 00</span></li>
-                  <li><span>Şube No:</span> <span>0000 - Bulvar Şubesi / Lüleburgaz</span></li>
-                  <li><span>Hesap Numarası:</span> <span>0000000</span></li>
+                  <li><span>IBAN:</span> <span>TR44 0006 4000 0011 4190 0194 62</span></li>
+                  <li><span>Şube No:</span> <span>1419 - Bulvar Şubesi / Lüleburgaz</span></li>
+                  <li><span>Hesap Numarası:</span> <span>0019462</span></li>
                 </ul>
               </p>
             </div>
@@ -44,9 +44,9 @@
               <p class="description">
                 <ul class="banka-f">
                   <li><span>Alıcı Adı:</span> <span>OyunSunuculari.com Demir Telekomünikasyon İlkay Demir.</span></li>
-                  <li><span>IBAN:</span> <span>TR30 0000 0000 0000 0000 0000 00</span></li>
-                  <li><span>Şube No:</span> <span>0000 - Bulvar Şubesi / Lüleburgaz</span></li>
-                  <li><span>Hesap Numarası:</span> <span>0000000</span></li>
+                  <li><span>IBAN:</span> <span>TR44 0006 4000 0011 4190 0194 62</span></li>
+                  <li><span>Şube No:</span> <span>1419 - Bulvar Şubesi / Lüleburgaz</span></li>
+                  <li><span>Hesap Numarası:</span> <span>0019462</span></li>
                 </ul>
               </p>
             </div>
@@ -57,9 +57,9 @@
               <p class="description">
                 <ul class="banka-f">
                   <li><span>Alıcı Adı:</span> <span>OyunSunuculari.com Demir Telekomünikasyon İlkay Demir.</span></li>
-                  <li><span>IBAN:</span> <span>TR30 0000 0000 0000 0000 0000 00</span></li>
-                  <li><span>Şube No:</span> <span>0000 - Bulvar Şubesi / Lüleburgaz</span></li>
-                  <li><span>Hesap Numarası:</span> <span>0000000</span></li>
+                  <li><span>IBAN:</span> <span>TR44 0006 4000 0011 4190 0194 62</span></li>
+                  <li><span>Şube No:</span> <span>1419 - Bulvar Şubesi / Lüleburgaz</span></li>
+                  <li><span>Hesap Numarası:</span> <span>0019462</span></li>
                 </ul>
               </p>
             </div>
@@ -70,9 +70,9 @@
               <p class="description">
                 <ul class="banka-f">
                   <li><span>Alıcı Adı:</span> <span>OyunSunuculari.com Demir Telekomünikasyon İlkay Demir.</span></li>
-                  <li><span>IBAN:</span> <span>TR30 0000 0000 0000 0000 0000 00</span></li>
-                  <li><span>Şube No:</span> <span>0000 - Bulvar Şubesi / Lüleburgaz</span></li>
-                  <li><span>Hesap Numarası:</span> <span>0000000</span></li>
+                  <li><span>IBAN:</span> <span>TR44 0006 4000 0011 4190 0194 62</span></li>
+                  <li><span>Şube No:</span> <span>1419 - Bulvar Şubesi / Lüleburgaz</span></li>
+                  <li><span>Hesap Numarası:</span> <span>0019462</span></li>
                 </ul>
               </p>
             </div>
