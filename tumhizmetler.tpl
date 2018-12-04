@@ -85,9 +85,9 @@
       <ul class="dmMenu">
         <li class="title">İletişim</li>
         <li>
-          <a href="tel:+908500000000" class="telefon">
+          <a href="tel:+90 541 738 03 12" class="telefon">
             <i class="fa fa-phone"></i>
-            0850 000 0 000
+            0541 738 03 12
           </a>
         </li>
         <li>

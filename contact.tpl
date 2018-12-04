@@ -25,7 +25,8 @@
 				<a href="#" data-toggle="modal" data-target="#bizeMesajGonderin">Bize Mesaj Gönderin</a>
 			</div>
 		</div>
-		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1503.5247978847067!2d28.99325165818292!3d41.08976299482313!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab688d9d8123b%3A0xa5bd4f33d88f6f3e!2zU2FuYXlpLCBCZXJla2V0IFNha2HEn8SxIE5vOjM1LCAzNDQxNSBLYcSfxLF0aGFuZS_EsHN0YW5idWwsIFTDvHJraXll!5e0!3m2!1str!2s!4v1478815524050" width="100%" height="700" frameborder="0" border="0" allowfullscreen></iframe>
+		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d471.3718114126807!2d27.35817143697667!3d41.39527610668669!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14b4a4ad6da38513%3A0xf12a91f0c5b6da28!2sSiteler+Mahallesi%2C+39750+L%C3%BCleburgaz%2FK%C4%B1rklareli!5e0!3m2!1str!2str!4v1543951515389" width="100%" height="700" frameborder="0" border="0" allowfullscreen></iframe>
+		
 	</section>
 
 	<!-- bize mesaj gönderin -->

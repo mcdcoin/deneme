@@ -43,5 +43,24 @@
   }
 	</script>
 </body>
-Şuraya Tawk.to Kodu Ekle
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{};
+Tawk_API.visitor = {
+name : '<?php echo $uye_bilgileri['ad'].' '.$uye_bilgileri['soyad'];?>',
+email : '<?php echo $uye_bilgileri['email'];?>'
+};
+ 
+var Tawk_LoadStart=new Date();
+
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5bfd7d4b40105007f379d6e5/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+
+</script>
 </html>
