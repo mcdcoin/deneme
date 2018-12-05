@@ -31,7 +31,7 @@
 				<li><a href="{$WEB_ROOT}/contact.php">İletişim</a></li>
 			</ul>
 			<ul class="sagMenu">
-				<li><a href="tel:+908500000000"><i class="fa fa-phone"></i> 0 541 738 03 12</a></li>
+				<li><a href="tel:+905417380312"><i class="fa fa-phone"></i> 0 541 738 03 12</a></li>
 				<li><a href="{$WEB_ROOT}/submitticket.php"><i class="fa fa-comments"></i> Hızlı Destek</a></li>
 				<li><a href="{$WEB_ROOT}/cart.php?a=view"><i class="fa fa-shopping-cart"></i> Sepet{if !$cartitemcount == 0} ({$cartitemcount}){/if}</a></li>
 				{if $loggedin}
